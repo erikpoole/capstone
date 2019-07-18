@@ -9,19 +9,19 @@
 **Mentor -**
 	Jeff Barlow (https://www.linkedin.com/in/barlowjeff/)
 
-**Project Milestones -**
-	Faciliate partners downloading the CLI for app design
-	Facilitate app submission through Partner Portal
-	Retrieve app status (post-submission) and display milestones during validation
-		*Will require update SDK to allow unauthorized apps to be pulled
-	Notify (probably e-mail) creaters when an app either fails or passes validation
-	Maintain Qualtrics standards for E2E and unit testing
+**Project Milestones -**\
+	Faciliate partners downloading the CLI for app design\
+	Facilitate app submission through Partner Portal\
+	Retrieve app status (post-submission) and display milestones during validation\
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Will require update SDK to allow unauthorized apps to be pulled*\
+	Notify (probably e-mail) creaters when an app either fails or passes validation\
+	Maintain Qualtrics standards for E2E and unit testing\
 	Host Documentation for Portal Usage
 
-**Stretch Milestones -**
-	Create app skeleton/name/credentials in portal (instead of CLI)
-	Authorization/Authenication of Users
-		*Based in part on whether partner registration is complete by the time of capstone completion
+**Stretch Milestones -**\
+	Create app skeleton/name/credentials in portal (instead of CLI)\
+	Authorization/Authenication of Users\
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Based in part on whether partner registration is complete by the time of capstone completion*
 
 **Tools to be Used -**\
 	Visual Studio Code\
@@ -31,4 +31,4 @@
 	Jenkins\
 	Rundeck\
 	Grafana\
-  And I’m sure many more
+  	And I’m sure many more
