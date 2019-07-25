@@ -18,8 +18,8 @@
 	Maintain Qualtrics standards for E2E and unit testing\
 
 **Stretch Milestones -**\
-	Integrate with existing Qualtrics Documentation on readme.io
-	Integrate blog functionality through Medium
+	Integrate with existing Qualtrics Documentation on readme.io\
+	Integrate blog functionality through Medium\
 	Create app skeleton/name/credentials in portal (instead of CLI)\
 	Authorization/Authenication of Users\
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Based in part on whether partner registration is complete by the time of capstone completion*
