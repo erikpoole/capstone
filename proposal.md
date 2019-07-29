@@ -14,7 +14,7 @@
 	Register developers and store redentials\
 	Partition a Qualtrics sandbox environment for new developers to create and test with\
 	Faciliate partners downloading the CLI & app templates\
-	Integrate gitlab API docks for the CLI and SDK
+	Integrate gitlab API docks for the CLI and SDK\
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Ideally with version control*\
 	Retrieve app status (post-submission) and display milestones during validation\
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Will require update SDK to allow unauthorized apps to be pulled*\
